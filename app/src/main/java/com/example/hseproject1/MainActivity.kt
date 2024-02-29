@@ -58,8 +58,8 @@ fun GreetingPreview() {
     </RelativeLayout>
 
     import java.time.LocalDateTime
-            import java.time.format.DateTimeFormatter
-            import kotlin.system.exitProcess
+    import java.time.format.DateTimeFormatter
+    import kotlin.system.exitProcess
 
     fun main() {
         val tracker = ExpenseTracker()
